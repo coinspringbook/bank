@@ -1,15 +1,11 @@
 # 存款教程
 
-打開網站後，點擊“存款”，按鈕
+打開網站後，點擊“存款”，按鈕\
+\
+![](<../.gitbook/assets/image (23).png>)
 
-![](<../.gitbook/assets/image (11).png>)
-
-彈出的存款，輸入存款數量和存款類型，類型分爲二種，活期（隨存隨取）、自定義（固定存一段時間，期間不可取，收益高）
-
-![](<../.gitbook/assets/image (10).png>)
-
-最後點擊“授權”，授權成功後就可以存入了
-
-![](<../.gitbook/assets/image (8).png>)
+彈出的存款，輸入存款數量和存款類型，類型分爲二種，活期（隨存隨取）、自定義（固定存一段時間，期間不可取，收益高）\
+\
+<mark style="color:orange;background-color:yellow;">`注意：第一次存款，需要授权，權成功後就可以存入了`</mark>\ <mark style="color:orange;background-color:yellow;">``</mark>\ <mark style="color:orange;background-color:yellow;">``</mark>![](<../.gitbook/assets/image (1) (1).png>)<mark style="color:orange;background-color:yellow;">``</mark>
 
 點擊“存入”按鈕“，確認後存款完成，每天等分收益就可以了，不想玩的時候，就可以”解鎖“-》”取款“。

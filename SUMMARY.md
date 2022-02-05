@@ -10,10 +10,9 @@
 ## 教程
 
 * [存款教程](jiao-cheng/yi-cun-kuan-jiao-cheng.md)
-* [取款教程](jiao-cheng/san-qu-kuan-jiao-cheng.md)
 * [解鎖教程](jiao-cheng/er-jie-suo-jiao-cheng.md)
-* [交易教程](jiao-cheng/trade/README.md)
-  * [Mdex](jiao-cheng/trade/mdex.md)
+* [取款教程](jiao-cheng/san-qu-kuan-jiao-cheng.md)
+* [交易教程](jiao-cheng/trade.md)
 
 ***
 
