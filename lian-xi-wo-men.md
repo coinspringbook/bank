@@ -1,6 +1,6 @@
 # 聯系我們
 
-### Telegram
+###
 
 {% embed url="https://t.me/hen_bank" %}
 
