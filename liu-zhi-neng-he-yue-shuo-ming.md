@@ -1,6 +1,6 @@
 # 智能合約
 
-Hen Bank智能合約代碼
+Bank智能合約代碼
 
 {% embed url="https://github.com/nearcode/HenBank" %}
 
